@@ -4,13 +4,13 @@ It seems like everyone’s wrapped in scarves and heavy coats here in Vancouver;
 
 ## Using Harp as Middleware
 
-We took this opportunity (the interest, not the weather) to update the guide for [using Harp alongside Express](http://harpjs.com/docs/environment/lib).
+We took this opportunity (the interest, not the weather) to update the guide for [using Harp alongside Express](http://harp.rip/docs/environment/lib).
 
-If your application already has a server, you can still get the benefits of Harp’s implicit preprocessing; follow [this guide](http://harpjs.com/docs/environment/lib), and learn how to use Harp as your asset pipeline.
+If your application already has a server, you can still get the benefits of Harp’s implicit preprocessing; follow [this guide](http://harp.rip/docs/environment/lib), and learn how to use Harp as your asset pipeline.
 
 ## Install Harp Screencast
 
-The Harp documentation is improving elsewhere, too. Harp’s [quick start](http://harpjs.com/docs/quick-start) guide is now much better, including platform specific details and this fantastic [“How to install the Harp web server”](http://www.youtube.com/watch?v=SEA0G9kpVJM) screencast from [Jorge Pedret](http://twitter.com/jorgepedret). If designers or developers you know would benefit from Harp’s preprocessing, but are less familiar with the terminal and installing Node, this screencast is for them.
+The Harp documentation is improving elsewhere, too. Harp’s [quick start](http://harp.rip/docs/quick-start) guide is now much better, including platform specific details and this fantastic [“How to install the Harp web server”](http://www.youtube.com/watch?v=SEA0G9kpVJM) screencast from [Jorge Pedret](http://twitter.com/jorgepedret). If designers or developers you know would benefit from Harp’s preprocessing, but are less familiar with the terminal and installing Node, this screencast is for them.
 
 <figure class="post-video">
   <iframe width="1280" height="720" src="//www.youtube.com/embed/SEA0G9kpVJM?rel=0?modestbranding=1&theme=light" frameborder="0" allowfullscreen></iframe>
@@ -18,15 +18,15 @@ The Harp documentation is improving elsewhere, too. Harp’s [quick start](http:
 
 ## Identity guide
 
-In addition to designing Harp itself, we’re exploring how visual identity design can work in an open source project. The initial version of [our visual identity guide](http://harpjs.com/identity/) has been published, and will be improving it in the open as time goes on. It’s an experiment, so we value your feedback as always.
+In addition to designing Harp itself, we’re exploring how visual identity design can work in an open source project. The initial version of [our visual identity guide](http://harp.rip/identity/) has been published, and will be improving it in the open as time goes on. It’s an experiment, so we value your feedback as always.
 
-[<img src="images/harp-weekly-example-illustration.png" alt="An illustration from the Harp identity guide" class="thin" />](http://harpjs.com/identity/)
+[<img src="images/harp-weekly-example-illustration.png" alt="An illustration from the Harp identity guide" class="thin" />](http://harp.rip/identity/)
 
 ## Harp recipes 
 
-The [Harp community](http://harpjs.com/community) has come up with efficient ways of building impressive features into their static sites with Harp. It made sense to start collecting some of them alongside some we use ourselves. The new [Harp recipes](http://harpjs.com/recipes) section includes code snippets and reusable patterns you can add to your site or app.
+The [Harp community](http://harp.rip/community) has come up with efficient ways of building impressive features into their static sites with Harp. It made sense to start collecting some of them alongside some we use ourselves. The new [Harp recipes](http://harp.rip/recipes) section includes code snippets and reusable patterns you can add to your site or app.
 
-For example, you’ll often want to show a different title in the `title` tag, on each page of your site or app. Now, there’s [a great of exactly that](http://harpjs.com/recipes/custom-title-description)—just follow the recipe.
+For example, you’ll often want to show a different title in the `title` tag, on each page of your site or app. Now, there’s [a great of exactly that](http://harp.rip/recipes/custom-title-description)—just follow the recipe.
 
 ## Node Brigade in Vancouver, BC
 

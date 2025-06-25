@@ -1,6 +1,6 @@
 # Harp Recipes
 
-- harpjs.com/recipes
+- harp.rip/recipes
 
 ## Goals
 - find blessed way of doing things

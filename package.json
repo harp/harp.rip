@@ -1,8 +1,8 @@
 {
-  "name": "harpjs.com",
+  "name": "harp.rip",
   "version": "0.0.0",
   "description": "The website for Harp, the static web server with built-in preprocessing.",
-  "homepage": "http://harpjs.com",
+  "homepage": "http://harp.rip",
   "private": true,
   "author": "Chloi <info@chloi.io> (http://chloi.io)",
   "contributors": [
@@ -11,7 +11,7 @@
     "Jorge Pedret <jorge@chloi.io>",
     "Kenneth Ormandy <kenneth@chloi.io>"
   ],
-  "repository": "git@github.com:harp/harpjs.com.git",
+  "repository": "git@github.com:harp/harp.rip.git",
   "keywords": [
     "static web server",
     "static site generator",
@@ -27,10 +27,10 @@
     "coffeescript"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified…yet! Pull requests on harp/harpjs.com are always appriciated.\"",
+    "test": "echo \"Error: no test specified…yet! Pull requests on harp/harp.rip are always appriciated.\"",
     "start": "harp server",
     "compile": "harp compile",
-    "deploy": "npm run compile && surge ./www harpjs.com"
+    "deploy": "npm run compile && surge ./www harp.rip"
   },
   "devDependencies": {
     "harp": "0.20.0",

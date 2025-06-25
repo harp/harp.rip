@@ -10,11 +10,11 @@ Spencer Alger has released [Elasticsearch.js](http://elasticsearch.github.io/ela
 
 ## Terraform Connect
 
-This week, I was also shown C J Silverio’s [terraform-connect](https://github.com/lyveminds/terraform-connect), a variant of Terraform—Harp’s asset pipeline. This allows you to run Terraform as middleware, just [as you might with Harp](http://harpjs.com/docs/environment/lib).
+This week, I was also shown C J Silverio’s [terraform-connect](https://github.com/lyveminds/terraform-connect), a variant of Terraform—Harp’s asset pipeline. This allows you to run Terraform as middleware, just [as you might with Harp](http://harp.rip/docs/environment/lib).
 
 ## EJS documentation
 
-[Harp’s documentation for EJS](http://harpjs.com/docs/development/ejs) improved this week. Did you know? To create an `.xml` file instead of the default of `.html` using EJS, all you need to do is rename it with a `.xml.ejs` extension? This works in [Jade](http://harpjs.com/docs/development/jade), too: `.xml.jade`. You can put this to good use by taking a look at how to build an RSS feed in the Harp Recipes section.
+[Harp’s documentation for EJS](http://harp.rip/docs/development/ejs) improved this week. Did you know? To create an `.xml` file instead of the default of `.html` using EJS, all you need to do is rename it with a `.xml.ejs` extension? This works in [Jade](http://harp.rip/docs/development/jade), too: `.xml.jade`. You can put this to good use by taking a look at how to build an RSS feed in the Harp Recipes section.
 
 ## Harp’s Stack Overflow tag
 
