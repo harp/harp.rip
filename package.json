@@ -34,6 +34,9 @@
   },
   "devDependencies": {
     "harp": "0.20.0",
+    "install": "^0.13.0",
+    "less": "^4.3.0",
+    "npm": "^11.3.0",
     "surge": "latest"
   }
 }
