@@ -8,7 +8,7 @@ In a decision that dramatically altered my sleep schedule for the remainder of t
 
 [![Casper running with Harp in the browser](images/harp-weekly-hb-casper.png)](http://casper.harp.io/)
 
-I’ve done my best to have it match the features currently available in Ghost. For example, you can create pages or posts, add custom header images, and modify the templates with [EJS](http://harp.rip/docs/development/ejs) and the styles using [Sass](http://harp.rip/docs/development/sass).
+I’ve done my best to have it match the features currently available in Ghost. For example, you can create pages or posts, add custom header images, and modify the templates with [EJS](https://harp.rip/docs/development/ejs) and the styles using [Sass](https://harp.rip/docs/development/sass).
 
 This boilerplate is a fork of the MIT Licensed [Casper](https://github.com/TryGhost/Casper); the the source code for the Harp version [is available on GitHub here.](https://github.com/kennethormandy/hb-casper)
 
@@ -38,4 +38,4 @@ After a request on GitHub, the Harp boilerplates Baseline and Remedy both had ne
 
 Next Harp Weekly will help you get ready for [Static Showdown](http://www.staticshowdown.com/), a 48 hour competition for creating static web apps. Harp would be the perfect tool to help with your entry.
 
-Until then, follow [@HarpWebServer](http://twitter.com/harpwebserver) on Twitter for the latest.
+Until then, follow [@HarpWebServer](https://twitter.com/harpwebserver) on Twitter for the latest.

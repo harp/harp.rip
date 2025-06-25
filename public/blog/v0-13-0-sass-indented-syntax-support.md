@@ -14,7 +14,7 @@ This is the first version of [Harp to require Node v0.10.x](v0-13-0-upgrading-no
 node --version
 ```
 
-If you get `v0.10.x` (where `x` is any number), then you are ready. If you get `v0.8.x`, you will need to upgrade to the latest version of Node. Just visit [the Node website](http://nodejs.org), download, and install the latest version.
+If you get `v0.10.x` (where `x` is any number), then you are ready. If you get `v0.8.x`, you will need to upgrade to the latest version of Node. Just visit [the Node website](https://nodejs.org), download, and install the latest version.
 
 ## Installing Harp
 
@@ -24,11 +24,11 @@ Now you’re ready to install Harp.
 npm update -g harp
 ```
 
-You may need to use `sudo npm install -g harp` depending on your setup. (You may also want to take a look at the [quick start guide](http://harp.rip/docs/quick-start).) Now, you’re ready to try out Harp v0.13.0.
+You may need to use `sudo npm install -g harp` depending on your setup. (You may also want to take a look at the [quick start guide](https://harp.rip/docs/quick-start).) Now, you’re ready to try out Harp v0.13.0.
 
 ### Using Sass’ indented syntax
 
-I’ve put together a simple Harp boilerplate with a `.sass` stylesheet for you to try out. You can try it out using [Harp’s `--boilerplate` command](http://harp.rip/blog/v0-12-1-boilerplates). To initialise a new project in a `my-proj/` folder, from the hb-simple-sass boilerplate, use the following command:
+I’ve put together a simple Harp boilerplate with a `.sass` stylesheet for you to try out. You can try it out using [Harp’s `--boilerplate` command](https://harp.rip/blog/v0-12-1-boilerplates). To initialise a new project in a `my-proj/` folder, from the hb-simple-sass boilerplate, use the following command:
 
 ```bash
 # Create the new app
@@ -59,7 +59,7 @@ There’s more examples in [the full documentation for `.sass`](http://sass-lang
 
 Sass’ `.sass` files can still import `.scss` files, and vice-versa. This means you can still use your favourite Sass libraries like [Bourbon](http://bourbon.io/) or [Foundation 5](http://foundation.zurb.com/) even if you’d prefer to write your site or app using the indented syntax.
 
-We wrote about trying out [Harp with Foundation or Bourbon & Neat](http://harp.rip/blog/v0-11-0-sass-support), and it will work the same with the new `.sass` support.
+We wrote about trying out [Harp with Foundation or Bourbon & Neat](https://harp.rip/blog/v0-11-0-sass-support), and it will work the same with the new `.sass` support.
 
 ## Preprocessor updates
 
@@ -75,4 +75,4 @@ Harp also helps power the [Harp Platform](http://www.harp.io), a front-end publi
 
 ## What’s next for Harp
 
-We haven’t been posting on the Harp blog as much, but we have been just as involved with the community and are happy to see Harp more popular than ever. We have more planned for Harp in the near future. If you’d like to be the first to know about it, [follow Harp on Twitter](http://twitter.com/harpwebserver).
+We haven’t been posting on the Harp blog as much, but we have been just as involved with the community and are happy to see Harp more popular than ever. We have more planned for Harp in the near future. If you’d like to be the first to know about it, [follow Harp on Twitter](https://twitter.com/harpwebserver).

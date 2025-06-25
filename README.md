@@ -1,6 +1,6 @@
-# [harp.rip](http://harp.rip)
+# [harp.rip](https://harp.rip)
 
-The [Harp](https://github.com/sintaxi/harp) app for [harp.rip](http://harp.rip), which contains the [documentation](http://harp.rip/docs), [blog](http://harp.rip/blog), and more.
+The [Harp](https://github.com/sintaxi/harp) app for [harp.rip](https://harp.rip), which contains the [documentation](https://harp.rip/docs), [blog](https://harp.rip/blog), and more.
 
 ## Running locally
 

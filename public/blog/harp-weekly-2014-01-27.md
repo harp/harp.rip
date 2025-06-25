@@ -14,7 +14,7 @@ As one Static Showdown entrant put it,
 
 > __[Krish Dholakiya](https://twitter.com/krrishd/status/424685237650485248)__
 
-Since your team will be on a time crunch, you might want to use a CSS framework or mixin library, too—[Harp works great with Foundation 5 or Bourbon](http://harp.rip/blog/v0-11-0-sass-support).
+Since your team will be on a time crunch, you might want to use a CSS framework or mixin library, too—[Harp works great with Foundation 5 or Bourbon](https://harp.rip/blog/v0-11-0-sass-support).
 
 ### Rob Ellis judges Static Showdown
 
@@ -40,4 +40,4 @@ Some potential contributors to Harp have expressed interest in helping with the 
 
 In the meantime, if you’d like to write about Harp—deploying a Harp application somewhere, using a preprocessor, or exploring advanced uses of some of Harp’s features, for example—we’ll make sure to promote your posts and link to them in the documentation!
 
-To get the latest updates on Harp, follow [@HarpWebServer](http://twitter.com/harpwebserver) on Twitter.
+To get the latest updates on Harp, follow [@HarpWebServer](https://twitter.com/harpwebserver) on Twitter.

@@ -2,9 +2,9 @@
   "name": "harp.rip",
   "version": "0.0.0",
   "description": "The website for Harp, the static web server with built-in preprocessing.",
-  "homepage": "http://harp.rip",
+  "homepage": "https://harp.rip",
   "private": true,
-  "author": "Chloi <info@chloi.io> (http://chloi.io)",
+  "author": "Chloi <info@chloi.io> (https://chloi.io)",
   "contributors": [
     "Brock Whitten <brock@chloi.io>",
     "Rob Ellis <rob@chloi.io>",
@@ -28,8 +28,8 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified…yet! Pull requests on harp/harp.rip are always appriciated.\"",
-    "start": "harp server",
-    "compile": "harp compile",
+    "start": "harp public",
+    "compile": "harp public www",
     "deploy": "npm run compile && surge ./www harp.rip"
   },
   "devDependencies": {

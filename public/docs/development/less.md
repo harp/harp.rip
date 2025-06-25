@@ -48,4 +48,4 @@ body {
 ## Also see
 
 * [LESS documentation](http://lesscss.org/)
-* [An introduction to Harp and Bootstrap](http://youtu.be/JWU70PWVVbc?t=7m9s)
+* [An introduction to Harp and Bootstrap](https://youtu.be/JWU70PWVVbc?t=7m9s)

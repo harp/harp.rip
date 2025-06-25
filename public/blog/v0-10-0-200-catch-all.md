@@ -50,4 +50,4 @@ To everyone who has been writing about Harp, [reporting issues](https://github.c
 * Intelligent redirects
 * Continued stability
 
-More details are available on [these milestones](https://github.com/sintaxi/harp/issues/milestones). [Follow Harp on Twitter for more frequent updates](http://twitter.com/harpwebserver).
+More details are available on [these milestones](https://github.com/sintaxi/harp/issues/milestones). [Follow Harp on Twitter for more frequent updates](https://twitter.com/harpwebserver).

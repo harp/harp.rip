@@ -1,10 +1,10 @@
 # Install Harp
 
-To install Harp, you must first have [Node.js](http://nodejs.org/download/), which can be installed on OS X, Windows, Linux, and SmartOS. [Download it from the Node.js website.](http://nodejs.org/download/)
+To install Harp, you must first have [Node.js](https://nodejs.org/download/), which can be installed on OS X, Windows, Linux, and SmartOS. [Download it from the Node.js website.](https://nodejs.org/download/)
 
 <div class="videoWrapper"><iframe width="853" height="480" src="//www.youtube.com/embed/SEA0G9kpVJM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-First, install [Node.js](http://nodejs.org/download/). Harp uses Node.js, but you don’t need to know about Node.js or even JavaScript to use Harp. Once it’s finished installing, you can install Harp using the mighty npm: Node.js’ package manager. You’ll use the command prompt to do this.
+First, install [Node.js](https://nodejs.org/download/). Harp uses Node.js, but you don’t need to know about Node.js or even JavaScript to use Harp. Once it’s finished installing, you can install Harp using the mighty npm: Node.js’ package manager. You’ll use the command prompt to do this.
 
 ## On OS X and Linux
 

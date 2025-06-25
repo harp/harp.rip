@@ -19,7 +19,7 @@ Harp got a shout-out at [London JS Conf](http://londonjsconf.com/) this past wee
 <figcaption>[Photo via Remy Sharp](https://twitter.com/rem/status/433980367964749824)</figcaption>
 </figure>
 
-Make sure to [let us know](http://twitter.com/harpwebserver) if you’re hosting a meet up or speaking about Harp at an event so we can help share it!
+Make sure to [let us know](https://twitter.com/harpwebserver) if you’re hosting a meet up or speaking about Harp at an event so we can help share it!
 
 ## Add a Dynamic Calendar to a Harp site
 
@@ -47,4 +47,4 @@ Make sure to tag your entry with “Harp” if you used it, or let just let us k
 
 ## Next Harp Weekly
 
-There’s a new release of Harp coming soon, with some great contributions from the community. Make sure to follow [@HarpWebServer](http://twitter.com/harpwebserver) on Twitter to be notified first.
+There’s a new release of Harp coming soon, with some great contributions from the community. Make sure to follow [@HarpWebServer](https://twitter.com/harpwebserver) on Twitter to be notified first.

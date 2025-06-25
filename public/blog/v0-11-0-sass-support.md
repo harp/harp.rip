@@ -170,4 +170,4 @@ Now that you’ve started your project with Foundation or Bourbon, you will need
 
 ## Looking forward
 
-Sass support opens up many new possibilities with Harp. We will be looking closer at libsass, Foundation, Bourbon, and more, all in future posts. [Subscribe to Harp Weekly](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66), or follow [@HarpWebServer](http://twitter.com/harpwebserver) on Twitter to be notified.
+Sass support opens up many new possibilities with Harp. We will be looking closer at libsass, Foundation, Bourbon, and more, all in future posts. [Subscribe to Harp Weekly](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66), or follow [@HarpWebServer](https://twitter.com/harpwebserver) on Twitter to be notified.

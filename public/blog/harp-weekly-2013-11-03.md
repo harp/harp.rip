@@ -32,6 +32,6 @@ OpenShift, Red Hat’s cloud platform, is covering some of their favourite web d
 
 ## Next Harp Weekly
 
-Each week, I try and collect what people have been building with Harp. Follow and message [@HarpWebServer](http://twitter.com/harpwebserver) if you’re making something with it. We’ll happily include it in next week’s post!
+Each week, I try and collect what people have been building with Harp. Follow and message [@HarpWebServer](https://twitter.com/harpwebserver) if you’re making something with it. We’ll happily include it in next week’s post!
 
 Also consider subscribe to [our occasional newsletter](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get <cite>Harp Weekly</cite> emailed to you.

@@ -12,7 +12,7 @@
                   a(href="#{ article.url ? article.url : '/blog/' + slug }") #{ article.title }
                 if public.blog.contributors._data[article.author]
                   - author = public.blog.contributors._data[article.author]
-                  span.post-meta #{ article.url ? 'External post by' : 'By' } <a href="http://twitter.com/#{ author.twitter }">#{ author.name }</a> on #{ article.date }                  
+                  span.post-meta #{ article.url ? 'External post by' : 'By' } <a href="https://twitter.com/#{ author.twitter }">#{ author.name }</a> on #{ article.date }                  
                 if i === 1 && article.published === true && !article.url
                   - i++
                   p!= partial(slug).split("<p>")[1].split("</p>")[0] + "&nbsp;"

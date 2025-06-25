@@ -8,7 +8,7 @@ Harp received [a minor update](https://github.com/sintaxi/harp/releases/tag/v0.1
 
 ## Harp at RubyConf Argentina
 
-[Brock Whitten](http://twitter.com/sintaxi), author of Harp, will be speaking about Harp and the [Harp Platform](https://www.harp.io) at [RubyConf Argentina](http://rubyconfargentina.org/en/). The event takes place in Buenos Aires, November 27th and 28th. If you’re attending, make sure to reply to [@sintaxi](http://twitter.com/sintaxi) and let him know.
+[Brock Whitten](https://twitter.com/sintaxi), author of Harp, will be speaking about Harp and the [Harp Platform](https://www.harp.io) at [RubyConf Argentina](http://rubyconfargentina.org/en/). The event takes place in Buenos Aires, November 27th and 28th. If you’re attending, make sure to reply to [@sintaxi](https://twitter.com/sintaxi) and let him know.
 
 ## WordPress to Harp
 
@@ -36,4 +36,4 @@ Some fun projects also came out of CascadiaJS’ Hacker Olympics, including a [H
 
 ## Next Harp Weekly
 
-There’s a great new release of Harp coming soon. Make sure to follow [@HarpWebServer](http://twitter.com/harpwebserver) or [watch Harp on GitHub](http://github.com/sintaxi/harp) to be notified first. Or, [subscribe to Harp Weekly](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get the next edition emailed to you.
+There’s a great new release of Harp coming soon. Make sure to follow [@HarpWebServer](https://twitter.com/harpwebserver) or [watch Harp on GitHub](https://github.com/sintaxi/harp) to be notified first. Or, [subscribe to Harp Weekly](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get the next edition emailed to you.

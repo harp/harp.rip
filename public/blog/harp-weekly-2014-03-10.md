@@ -13,7 +13,7 @@ We’re looking forward to having [Live Reload support built into Harp](https://
 
 ## Polyglot 2014 in Vancouver
 
-[Polyglot is an Unconference](http://www.polyglotconf.com/#schedule) in Vancouver, BC. This year, [their site](http://www.polyglotconf.com/) was built with Harp. Last year, there was a talk on the [Harp Platform](https://www.harp.io) by [@sintaxi](http://twitter.com/sintaxi). We’re looking forward to chatting with more people about Harp this year, so let us know if you’ll be in the area for the event!
+[Polyglot is an Unconference](http://www.polyglotconf.com/#schedule) in Vancouver, BC. This year, [their site](http://www.polyglotconf.com/) was built with Harp. Last year, there was a talk on the [Harp Platform](https://www.harp.io) by [@sintaxi](https://twitter.com/sintaxi). We’re looking forward to chatting with more people about Harp this year, so let us know if you’ll be in the area for the event!
 
 <figure>
 [![](images/harp-weekly-polyglot-2013.jpg)](http://www.polyglotconf.com/#schedule)
@@ -26,7 +26,7 @@ Polyglot is co-organised by the [WealthBar](https://www.wealthbar.com/) team. Th
 
 CodeDay is a 24-hour hack-a-thon for students interested in technology and programming, at any skill level. There are events being held in Seattle, San Francisco, Phoenix, Boston, and more. If you’re interested, or know a student who might be, [take a look at their site](https://codeday.org/), which was built using Harp.
 
-[Let us know on Twitter](http://twitter.com/harpwebserver) or [send me an email](mailto:kenneth@chloi.io) if you’re a student  interested in using Harp during the event. We’ll do what we can to help.
+[Let us know on Twitter](https://twitter.com/harpwebserver) or [send me an email](mailto:kenneth@chloi.io) if you’re a student  interested in using Harp during the event. We’ll do what we can to help.
 
 ## Deploy Harp apps to Docker through Octohost
 
@@ -36,4 +36,4 @@ If you’re looking to release a static application or site through Docker, [Oct
 
 ## Next Harp Weekly
 
-Harp Weekly returns next week with a new theme. Make sure to follow [Harp on Twitter](http://twitter.com/harpwebserver) to be notified first.
+Harp Weekly returns next week with a new theme. Make sure to follow [Harp on Twitter](https://twitter.com/harpwebserver) to be notified first.

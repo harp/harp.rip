@@ -2,7 +2,7 @@
 
 Since Sintaxi wrote [Introducing Harp](http://sintaxi.com/introducing-harp) a few weeks ago, we’ve seen a lot of people enjoy building things with it. Starting today, each week or so we’ll collect what’s new surrounding Harp—blog posts, sites, apps and community projects—and feature them here.
 
-To get more frequent updates, follow Harp on Twitter [here](http://twitter.com/harpwebserver).
+To get more frequent updates, follow Harp on Twitter [here](https://twitter.com/harpwebserver).
 
 ## #1 Trending Repo on Github!
 
@@ -51,4 +51,4 @@ Verse, a forward-looking Stylus CSS framework, is using Harp to preprocess Markd
 
 ## Next Harp Weekly
 
-Subscribe to [our occasional newsletter](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get the next <cite>Harp Weekly</cite> emailed to you. And, if you’re building something with Harp, reply to [@HarpWebServer](http://twitter.com/harpwebserver). We’d love to see what you’re working on—especially if you’re on Windows, as [Harp has Windows support as of v0.9.4](http://localhost:9000/blog/v0-9-4-windows-support).
+Subscribe to [our occasional newsletter](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get the next <cite>Harp Weekly</cite> emailed to you. And, if you’re building something with Harp, reply to [@HarpWebServer](https://twitter.com/harpwebserver). We’d love to see what you’re working on—especially if you’re on Windows, as [Harp has Windows support as of v0.9.4](http://localhost:9000/blog/v0-9-4-windows-support).

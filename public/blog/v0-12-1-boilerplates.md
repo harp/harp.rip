@@ -6,7 +6,7 @@ A new release of Harp is available, allowing you to initialise any new project w
 
 ## Boilerplates, `-b` for short
 
-Thanks to [@zeke](http://github.com/zeke), `harp init` is a lot more powerful. Now, you can initialise any project on GitHub as a boilerplate for Harp. For example, if you wanted to get started with the [Remedy](http://github.com/kennethormandy/hb-remedy) boilerplate right from the command like, you can now run:
+Thanks to [@zeke](https://github.com/zeke), `harp init` is a lot more powerful. Now, you can initialise any project on GitHub as a boilerplate for Harp. For example, if you wanted to get started with the [Remedy](https://github.com/kennethormandy/hb-remedy) boilerplate right from the command like, you can now run:
 
 ```bash
 harp init --boilerplate kennethormandy/hb-remedy
@@ -22,7 +22,7 @@ harp init --boilerplate hb-blog
 # Initialized project at /path/to/your/project
 ```
 
-There’s more details in the new documentation for [Initializing a Harp Application](http://harp.rip/docs/environment/init).
+There’s more details in the new documentation for [Initializing a Harp Application](https://harp.rip/docs/environment/init).
 
 ## Multihost updated
 
@@ -33,7 +33,7 @@ harp multihost path/to/my-apps
 # Harp is now serving multiple apps at http://harp.nu:9000
 ```
 
-There’s more detailed instructions in the updated [Harp Multihost](http://harp.rip/docs/environment/multihost) documentation.
+There’s more detailed instructions in the updated [Harp Multihost](https://harp.rip/docs/environment/multihost) documentation.
 
 ## Installing the latest version
 
@@ -49,7 +49,7 @@ You may need to use `sudo npm update -g harp` depending on your setup. If you ha
 npm install -g harp
 ```
 
-and take a look at the [quick start guide](http://harp.rip/docs/quick-start). Now, you’re ready to play with what’s new in Harp v0.12.1.
+and take a look at the [quick start guide](https://harp.rip/docs/quick-start). Now, you’re ready to play with what’s new in Harp v0.12.1.
 
 ## Bugfixes
 

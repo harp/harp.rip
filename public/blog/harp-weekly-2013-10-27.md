@@ -47,4 +47,4 @@ This past week, there’s been some good discussions around feature requests on 
 
 ## Next Harp Weekly
 
-Subscribe to [our occasional newsletter](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get the next <cite>Harp Weekly</cite> emailed to you. And, if you’re building something with Harp, reply to [@HarpWebServer](http://twitter.com/harpwebserver).
+Subscribe to [our occasional newsletter](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get the next <cite>Harp Weekly</cite> emailed to you. And, if you’re building something with Harp, reply to [@HarpWebServer](https://twitter.com/harpwebserver).

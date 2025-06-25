@@ -19,7 +19,7 @@ There’s a a link to the Harp project [from Brad’s original on GitHub](https:
 
 ### Launch a Project Hub through Dropbox
 
-You could also try out a Project Hub through the [Harp Platform](https://www.harp.io): a front-end publishing platform integrated with Dropbox, and powered by [Harp](http://github.com/sintaxi/harp). There’s a free trial, perfect for [launching a Project Hub right in your Dropbox, with a custom subdomain](https://harp.io/apps/new?boilerplate=jorgepedret/harp-project-hub).
+You could also try out a Project Hub through the [Harp Platform](https://www.harp.io): a front-end publishing platform integrated with Dropbox, and powered by [Harp](https://github.com/sintaxi/harp). There’s a free trial, perfect for [launching a Project Hub right in your Dropbox, with a custom subdomain](https://harp.io/apps/new?boilerplate=jorgepedret/harp-project-hub).
 
 Then, you can share the Dropbox folder with your whole team. Everyone can update it, and even include and publish the relevant resources along with it. Jorge put an active example at [projecthub.harp.io](http://projecthub.harp.io/) to give you an idea.
 
@@ -31,14 +31,14 @@ Raymond Camden previously wrote about [moving from dynamic to static with Harp](
 
 ## Markdown and Client-side syntax highlight
 
-[Harp’s Markdown documentation page](http://harp.rip/docs/development/markdown) will now be more helpful if you’re writing a blog with code samples, or creating a documentation site. A GitHub Flavoured Markdown walk through is included, showing you how to denote what language you are using, making it perfect for a client-side syntax highlighter.
+[Harp’s Markdown documentation page](https://harp.rip/docs/development/markdown) will now be more helpful if you’re writing a blog with code samples, or creating a documentation site. A GitHub Flavoured Markdown walk through is included, showing you how to denote what language you are using, making it perfect for a client-side syntax highlighter.
 
 ## The `environment` variable
 
-Harp’s `environment` variable makes it possible for a static site to behave differently depending on its context. [The new `environment` documentation](http://harp.rip/docs/development/environment) has a simple example for altering your site, depending on whether or not Harp is in production.
+Harp’s `environment` variable makes it possible for a static site to behave differently depending on its context. [The new `environment` documentation](https://harp.rip/docs/development/environment) has a simple example for altering your site, depending on whether or not Harp is in production.
 
 ## Next Harp Weekly
 
 There’s a post coming soon about some powerful dynamic features you can create with `environment`, while still serving a static site. If you’re interested, it will be included in the next Harp Weekly—[subscribe here](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66).
 
-[Harp gained Sass support](http://localhost:9000/blog/v0-11-0-sass-support) in the most recent release, and there should be another update very soon. Follow [@HarpWebServer](http://twitter.com/harpwebserver) on Twitter to be notified first.
+[Harp gained Sass support](http://localhost:9000/blog/v0-11-0-sass-support) in the most recent release, and there should be another update very soon. Follow [@HarpWebServer](https://twitter.com/harpwebserver) on Twitter to be notified first.

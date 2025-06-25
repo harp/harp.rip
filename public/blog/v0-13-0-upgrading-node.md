@@ -20,9 +20,9 @@ First, check which version of Node you’re running:
 node --version
 ```
 
-If you get `v0.10.x` or higher (where `x` is any number), then you are ready. If you get `v0.8.x`, you will need to upgrade to the latest version of Node. Just visit [the Node website](http://nodejs.org), download, and install the latest version.
+If you get `v0.10.x` or higher (where `x` is any number), then you are ready. If you get `v0.8.x`, you will need to upgrade to the latest version of Node. Just visit [the Node website](https://nodejs.org), download, and install the latest version.
 
-[![](images/v0-13-0-upgrade-node.png)](http://nodejs.org)
+[![](images/v0-13-0-upgrade-node.png)](https://nodejs.org)
 
 ## Installing Harp
 
@@ -42,4 +42,4 @@ You may need to use `sudo npm install -g harp` depending on your setup.
 
 ## What’s next?
 
-Take a look at the release notes for [Harp v0.13.0](../v0-13-0-sass-indented-syntax-support) if you’re interested in playing with the new `.sass` indented syntax preprocessor, or review [Harp’s five simple rules](http://harp.rip/docs/development/rules) and get started on your static site!
+Take a look at the release notes for [Harp v0.13.0](../v0-13-0-sass-indented-syntax-support) if you’re interested in playing with the new `.sass` indented syntax preprocessor, or review [Harp’s five simple rules](https://harp.rip/docs/development/rules) and get started on your static site!

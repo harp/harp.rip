@@ -74,4 +74,4 @@ We’re on track for __more regular updates to Harp__, and will be publishing a 
 <blockquote class="twitter-tweet" lang="en"><p>putting together Harp 1.0 Roadmap. BrowserSync and Browserify are coming. Going to be sweet.</p>&mdash; Brock Whitten (@sintaxi) <a href="https://twitter.com/sintaxi/status/509642220979249152">September 10, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Let us know](http://twitter.com/harpwebserver) if you’d like to be involved.
+[Let us know](https://twitter.com/harpwebserver) if you’d like to be involved.

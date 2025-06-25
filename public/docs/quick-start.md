@@ -6,7 +6,7 @@ This guide will help you install Harp. You’ll create and serve a simple projec
 
   <div class="videoWrapper"><iframe width="853" height="480" src="//www.youtube.com/embed/SEA0G9kpVJM?rel=0" frameborder="0" allowfullscreen></iframe></div>
 
-  First, install [Node.js](http://nodejs.org/download/). Harp uses Node.js, but you don’t need to know about Node.js or even JavaScript to use Harp. Once it’s finished installing, you can install Harp using the mighty npm: Node.js’ package manager. You’ll use the command prompt to do this.
+  First, install [Node.js](https://nodejs.org/download/). Harp uses Node.js, but you don’t need to know about Node.js or even JavaScript to use Harp. Once it’s finished installing, you can install Harp using the mighty npm: Node.js’ package manager. You’ll use the command prompt to do this.
 
   ### On OS X and Linux
 
@@ -66,7 +66,7 @@ This guide will help you install Harp. You’ll create and serve a simple projec
 
   You don’t need to manually run Harp in production to get your project online, however. The easiest way to get started is to use the [Harp Platform](https://www.harp.io/), which lets you create and collaborate on Harp apps right in your Dropbox.
 
-  You can also run Harp in production on [Heroku](http://harp.rip/docs/deployment/heroku), deploy Harp to [GitHub Pages](http://harp.rip/docs/deployment/github-pages), compile your app for Apache Cordova/PhoneGap, and more.
+  You can also run Harp in production on [Heroku](https://harp.rip/docs/deployment/heroku), deploy Harp to [GitHub Pages](https://harp.rip/docs/deployment/github-pages), compile your app for Apache Cordova/PhoneGap, and more.
 
 ## What’s Next
 

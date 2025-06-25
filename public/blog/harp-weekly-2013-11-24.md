@@ -23,4 +23,4 @@ Harp is a static web server, but by running `harp compile`, you can flatten your
 
 ## Next Harp Weekly
 
-There’s a great new release of Harp coming very soon. Make sure to follow [@HarpWebServer](http://twitter.com/harpwebserver) or [watch Harp on GitHub](http://github.com/sintaxi/harp) to be notified first. [Subscribe to <cite>Harp Weekly</cite>](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get the next edition emailed to you.
+There’s a great new release of Harp coming very soon. Make sure to follow [@HarpWebServer](https://twitter.com/harpwebserver) or [watch Harp on GitHub](https://github.com/sintaxi/harp) to be notified first. [Subscribe to <cite>Harp Weekly</cite>](http://harpjs.us7.list-manage1.com/subscribe?u=af92eba03471187c8aa0266e7&id=74381fea66) to get the next edition emailed to you.
