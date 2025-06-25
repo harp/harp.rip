@@ -5,11 +5,17 @@
   .container.st-content-inner
     != partial("../_shared/nav")
     article.col-12.col-lg-9.article-docs
-      :markdown
-        ## Environment
+      h2 Environment
 
-        Learn how to run Harp wherever you need it:
+      p Learn how to run Harp wherever you need it:
 
-        * [Locally](/docs/environment/install), while you design and develop static sites or client-side applications
-        * [As Middleware](/docs/environment/lib), making Harp the asset pipeline for a larger application built with Express and Node.js
-        * [In Production](/docs/environment/server), where Harp will act as a web server, caching and can serve static content
+      ul
+        li
+          a(href="/docs/environment/install") Locally
+          | , while you design and develop static sites or client-side applications
+        li
+          a(href="/docs/environment/lib") As Middleware
+          | , making Harp the asset pipeline for a larger application built with Express and Node.js
+        li
+          a(href="/docs/environment/server") In Production
+          | , where Harp will act as a web server, caching and can serve static content
